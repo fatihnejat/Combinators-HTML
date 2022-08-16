@@ -1,0 +1,17 @@
+/* ******Combinators****** */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* .kutu p {
+    color: red ;
+} */
+
+/* .kutu > p {
+    color: red;
+} */
+
+h1 + p {
+    color: rgb(133, 219, 130);
+}
