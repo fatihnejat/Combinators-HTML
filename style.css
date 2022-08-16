@@ -15,3 +15,20 @@
 h1 + p {
     color: rgb(133, 219, 130);
 }
+/* div p {
+    color: red;
+} */
+
+.kutu > p {
+    color: rgb(46, 121, 187);
+}
+
+h3{
+    margin: 2rem;
+    border: 1px solid red;
+    width: 5rem;
+    height: 5rem;
+    outline: 3px solid purple;
+    outline-offset: 1rem ;
+
+}
