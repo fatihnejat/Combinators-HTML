@@ -29,4 +29,19 @@ nav.yatay-menu ul li:hover {
 }
 nav.yatay-menu ul li:hover a{
     color:white
+    
 }
+
+nav.acilir-menu ul {
+    display: none;
+    width: 10rem;
+}
+
+nav.acilir-menu .fa-bars: active {
+    opacity: 0.5;
+}
+nav.acilir-menu:hover ul{
+    display: block
+}
+
+

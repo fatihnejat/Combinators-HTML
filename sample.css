@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    font-family: "Open Sans";
+    
+}
+/* ************NAV-TOP SECTİON****************** */
+
+nav.nav-top{
+    background-image: linear-gradient(45deg,white,purple);
+}
+
+nav.nav-top img{
+    width: 50px;
+   
+}
+.nav-top .sign-in{
+    float: right;
+    margin: 1.5rem 1.5rem;
+
+}
+.nav-top .sign-in a{
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    font-weight: 700;
+}
+.nav-top .sign-in a:hover{
+    color: black;
+}
+
+/* ***************** NAV-MAIN SECTION ************** */
+
